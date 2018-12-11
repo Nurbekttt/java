@@ -1,0 +1,108 @@
+.but-style{
+    -fx-font-weight:BOLD;
+         -fx-background-color:#AB4642;
+         -fx-background-radius:27;
+         -fx-font-size:21;
+         -fx-text-fill:WHITE;
+         -fx-border-color:#AB4642;
+         -fx-border-radius:20;
+         -fx-border-width:3;
+
+}
+.but-style:hover{
+     -fx-font-weight:BOLD;
+     -fx-background-color:WHITE;
+     -fx-background-radius:27;
+     -fx-font-size:21;
+     -fx-text-fill:#AB4642;
+     -fx-border-color:#AB4642;
+     -fx-border-radius:20;
+     -fx-border-width:3;
+}
+.but-style:pressed{
+         -fx-font-weight:BOLD;
+         -fx-background-color:WHITE;
+         -fx-background-radius:27;
+         -fx-font-size:21;
+         -fx-text-fill:#AB4642;
+         -fx-border-color:#AB4642;
+         -fx-border-radius:20;
+         -fx-border-width:3;
+         -fx-rotate:10;
+}
+.back{
+    -fx-background-color:#383838;
+}
+
+.vol{
+          -fx-font-weight:BOLD;
+                 -fx-background-color:#AB4642;
+                 -fx-background-radius:27;
+                 -fx-font-size:13;
+                 -fx-text-fill:WHITE;
+                 -fx-border-color:#AB4642;
+                 -fx-border-radius:20;
+
+}
+
+.vol1{
+          -fx-font-weight:BOLD;
+                 -fx-background-color:#AB4642;
+                 -fx-background-radius:18;
+                 -fx-font-size:30;
+                 -fx-text-fill:WHITE;
+                 -fx-border-color:#AB4642;
+                 -fx-border-radius:17;
+
+}
+.vol1:hover{
+        -fx-font-weight:BOLD;
+             -fx-background-color:WHITE;
+             -fx-background-radius:18;
+             -fx-font-size:30;
+             -fx-text-fill:#AB4642;
+             -fx-border-color:#AB4642;
+             -fx-border-radius:17;
+}
+.vol:hover{
+        -fx-font-weight:BOLD;
+             -fx-background-color:WHITE;
+             -fx-background-radius:27;
+             -fx-font-size:13;
+             -fx-text-fill:#AB4642;
+             -fx-border-color:#AB4642;
+             -fx-border-radius:20;
+}
+.playbutton{
+                 -fx-font-weight:BOLD;
+                 -fx-background-color:TRANSPARENT;
+                 -fx-font-size:17;
+                 -fx-text-fill:WHITE;
+
+}
+.changemuz{
+                -fx-font-weight:BOLD;
+                 -fx-background-color:#AB4642;
+                 -fx-background-radius:27;
+                 -fx-font-size:13;
+                 -fx-text-fill:WHITE;
+                 -fx-border-color:#AB4642;
+                 -fx-border-radius:20;
+
+}
+
+.rec{
+    -fx-border-weight:BOLD;
+    -fx-border-width:20;
+
+}
+.combo-box .cell{
+    -fx-background-color: linear-gradient(#20B2AA,#696969);
+    -fx-text-fill: linear-gradient(#FF4500,#4B0082);
+    -fx-font-weight:BOLD;
+}
+
+.labelcolor{
+    -fx-background-color: RED;
+    /*-fx-text-fill:#B22222;*/
+}

@@ -1,0 +1,15 @@
+.play{
+
+    -fx-background-color: linear-gradient(#dc9656,#2F4F4F);
+    -fx-background-radius:7;
+}
+.level{
+    -fx-background-color: linear-gradient(#dc9656,#ab4642);
+    -fx-text-fill: #FFA07A;
+}
+.text{
+    -fx-background-color:#CD853F}
+.rec{
+    -fx-border-width:20;
+
+}
